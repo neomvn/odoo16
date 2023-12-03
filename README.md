@@ -12,7 +12,7 @@ If you set the parameter ```INSTALL_NGINX``` to ```True``` you should also confi
 ```
 wget https://raw.githubusercontent.com/hrmuwanika/odoo/16.0/install_odoo_ubuntu.sh
 
-https://raw.githubusercontent.com/neomvn/odoo16/16.0/install_odoo_ubuntu.sh
+wget https://raw.githubusercontent.com/neomvn/odoo16/16.0/install_odoo_ubuntu.sh
 
 ```
 ##### 2. Modify the parameters as you wish.
